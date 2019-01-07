@@ -1,0 +1,22 @@
+.App {
+  font-family: "Lobster", cursive;
+  text-align: center;
+}
+
+.fas {
+  font-size: 25px;
+}
+
+.fa-arrow-up,
+.fa-arrow-down {
+  cursor: pointer;
+}
+
+#time-left {
+  font-size: 80px;
+}
+
+.window {
+  border: 3px solid #816c61;
+  border-radius: 50px;
+}

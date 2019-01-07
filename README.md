@@ -1,2 +1,0 @@
-# ReactPomodoroClock
-Created with CodeSandbox
